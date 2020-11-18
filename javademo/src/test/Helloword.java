@@ -11,4 +11,9 @@ public class Helloword {
 	public void test(){
 		System.out.println("test");
 	}
+
+
+	public void fun1(){
+		System.out.println("fun");
+	}
 }
