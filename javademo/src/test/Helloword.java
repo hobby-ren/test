@@ -7,5 +7,8 @@ public class Helloword {
 		//打印一个helloword！！！
 		System.out.println("hello word!!!!!");
 	}
-
+	
+	public void test(){
+		System.out.println("test");
+	}
 }
